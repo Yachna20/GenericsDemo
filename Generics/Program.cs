@@ -4,7 +4,7 @@
     {
     static void Main(string[] args)
       {
-        int max = FindMax.FindIntMax(3, 8, 4);
+        int max = FindMax.FindIntMax(4, 3, 8);
         Console.WriteLine(max);
 
 
