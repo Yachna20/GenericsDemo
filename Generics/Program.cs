@@ -4,10 +4,8 @@
     {
     static void Main(string[] args)
       {
-        int max = FindMax.FindIntMax(4, 3, 8);
+        float max = FindMax.FindFloatMax(8.7f, 3.3f, 4.4f);
         Console.WriteLine(max);
-
-
       }
     }
 }
