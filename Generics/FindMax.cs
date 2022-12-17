@@ -22,7 +22,7 @@ namespace Generics
             {
                 return num3;
             }
-           return num1 ;
+           return default ;
         }
     }
 }
